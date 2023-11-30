@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Mortuza</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate MERN stack developer.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/mortuza869175" target="blank"><img src="https://img.shields.io/twitter/follow/mortuza869175?logo=twitter&style=for-the-badge" alt="mortuza869175" /></a> </p>
