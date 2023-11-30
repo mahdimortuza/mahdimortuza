@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mahdi Mortuza</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimortuza&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimortuza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdimortuza" alt="mahdimortuza" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mortuza869175" target="blank"><img src="https://img.shields.io/twitter/follow/mortuza869175?logo=twitter&style=for-the-badge" alt="mortuza869175" /></a> </p>
 
-- 🔭 I’m currently working on [UniAid](https://github.com/Eshtiaque/Crowd-Funding-Client)
 
-- 🌱 I’m currently learning **JavaScript, NodeJS**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Express, NodeJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://mahdi-mortuza-portfolio.netlify.app](https://mahdi-mortuza-portfolio.netlify.app)
 
-- 💬 Ask me about **React, JavaScript, NodeJS, ExpressJS**
+- 💬 Ask me about **React, TypeScript, JavaScript, NodeJS, ExpressJS**
 
 - 📫 How to reach me **mahdi.mortuza1@gmail.com**
 
