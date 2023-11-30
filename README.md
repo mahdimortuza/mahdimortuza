@@ -5,8 +5,6 @@
 <p align="left"> <a href="https://twitter.com/mortuza869175" target="blank"><img src="https://img.shields.io/twitter/follow/mortuza869175?logo=twitter&style=for-the-badge" alt="mortuza869175" /></a> </p>
 
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Express, NodeJS, MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://mahdi-mortuza-portfolio.netlify.app](https://mahdi-mortuza-portfolio.netlify.app)
 
 - 💬 Ask me about **React, TypeScript, JavaScript, NodeJS, ExpressJS**
