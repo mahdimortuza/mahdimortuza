@@ -21,7 +21,7 @@
   <div align=center> 
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=mahdimortuza&theme=react&border=61dafb&hide_border=true" alt="mahdimortuza" />
   
-   <a href="" title="Go to Source">
+   <a href="https://camo.githubusercontent.com/">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mahdimortuza&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
