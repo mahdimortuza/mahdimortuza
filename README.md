@@ -43,6 +43,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github) 
 ![VS Code](https://img.shields.io/badge/-VS_Code-000?logo=visual-studio-code) 
 ![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
+![npm](https://img.shields.io/badge/-npm-000?logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase) 
 
 
