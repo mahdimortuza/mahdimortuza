@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <br> I'm Mahdi Mortuza 😎</h1> 
 
-<h6>I'm a full-stack web Developer. My 2024 goals are to get a job and contributing to open-source projects. I always find joy in learning new things.<h6/>
+<p>I'm a full-stack web Developer. My 2024 goals are to get a job and contributing to open-source projects. I always find joy in learning new things.<p/>
  
 
 - 👨‍💻 Checkout my projects here 👉 [https://mahdi-mortuza-portfolio.netlify.app](https://mahdi-mortuza-portfolio.netlify.app)
