@@ -24,4 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdimortuza&theme=dark" alt="mahdimortuza" /></p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdimortuza&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahdimortuza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
