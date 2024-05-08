@@ -13,27 +13,37 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1Kq59gGAsC4KZ8jzcYqTRfxxZr5QZgfKX](https://drive.google.com/drive/u/0/folders/1Kq59gGAsC4KZ8jzcYqTRfxxZr5QZgfKX)
  
 ### Languages
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![HTML](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) 
+
 
 ### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=zustand)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=mongoose)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000?logo=framer)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-000?&logo=ant-design)
+![Material-UI](https://img.shields.io/badge/-Material_UI-000?logo=material-ui)
+![Material Tailwind](https://img.shields.io/badge/-Material_Tailwind-000?&logo=material-ui&logoColor=blue)
+![Shadcn](https://img.shields.io/badge/-Shadcn-000?&logo=shadcn)
+![Headless UI](https://img.shields.io/badge/-Headless_UI-000?&logo=headless-ui)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-000?&logo=daisyui)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) 
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-000?logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github) 
+![VS Code](https://img.shields.io/badge/-VS_Code-000?logo=visual-studio-code) 
+![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
+![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase) 
 
 
 <br> 
