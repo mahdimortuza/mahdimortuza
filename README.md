@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mahdi Mortuza</h1>
-<h3 align="center">A full stack web developer.</h3>
- 
- 
+<h1 align="center">Hi 👋, <br> I'm Mahdi Mortuza 😎</h1> 
 
+<p>I'm a full-stack web Developer. My 2024 goals are to get a job and contributing to open-source projects. I always find joy in learning new things.<p/>
+ 
 
 - 👨‍💻 Checkout my projects here 👉 [https://mahdi-mortuza-portfolio.netlify.app](https://mahdi-mortuza-portfolio.netlify.app)
 
@@ -11,8 +10,7 @@
 - 📫 How to reach me **mahdi.mortuza1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1Kq59gGAsC4KZ8jzcYqTRfxxZr5QZgfKX](https://drive.google.com/drive/u/0/folders/1Kq59gGAsC4KZ8jzcYqTRfxxZr5QZgfKX)
-
-<br>
+ 
  
 ### Languages
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
