@@ -21,6 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdimortuza&show_icons=true&locale=en&title_color=fff&icon_color=3178C6&text_color=9f9f9f&bg_color=151515" alt="mahdimortuza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdimortuza" alt="mahdimortuza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdimortuza&theme=dark" alt="mahdimortuza" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahdimortuza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
