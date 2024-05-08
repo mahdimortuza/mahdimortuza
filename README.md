@@ -13,8 +13,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1Kq59gGAsC4KZ8jzcYqTRfxxZr5QZgfKX](https://drive.google.com/drive/u/0/folders/1Kq59gGAsC4KZ8jzcYqTRfxxZr5QZgfKX)
  
 ### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -36,7 +35,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
- 
 
 <br> 
 <p align=center>
