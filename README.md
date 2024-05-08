@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mahdi Mortuza</h1>
 <h3 align="center">A full stack web developer.</h3>
 
- 
+https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
+
+![visitors](https://visitor-badge.laobi.icu/badge?mahdimortuza=mahdimortuza)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 
 - 👨‍💻 Checkout my projects here 👉 [https://mahdi-mortuza-portfolio.netlify.app](https://mahdi-mortuza-portfolio.netlify.app)
 
