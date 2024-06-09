@@ -3,7 +3,7 @@
 #### I'm a full-stack web Developer. My 2024 goals are to get a job and contributing to open-source projects. I always find joy in learning new technologies.
  
 
-- 👨‍💻 Checkout my projects here 👉 [https://mahdi-mortuza-portfolio.netlify.app](https://mahdi-mortuza-portfolio.netlify.app)
+- 👨‍💻 Checkout my projects here 👉 [https://mahdi-mortuza-portfolio.vercel.app/](https://mahdi-mortuza-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, NextJS, TypeScript, JavaScript, NodeJS, ExpressJS**
 
