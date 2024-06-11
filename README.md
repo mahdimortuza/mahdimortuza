@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <br> This is Mahdi Mortuza 😎</h1> 
 
-#### I'm a full-stack web Developer. My 2024 goals are to get a job and contributing to open-source projects. I always find joy in learning new technologies. 
+#### I'm a full-stack web Developer. My 2024 goals are to get a job and to contribute to open-source projects. I always find joy in learning new technologies. 
 #### Right now, I am learning TDD
  
 
